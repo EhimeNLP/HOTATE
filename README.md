@@ -21,17 +21,30 @@
 ## データ例
 ```
 {
-  "dialogue_id": "daily_001",
-  "turn_id": 0,
-  "speaker": "A",
-  "utterance": "今度の飲み会、楽しみだね。",
-  "label": "tatemae"
-}
-{
-  "dialogue_id": "daily_001",
-  "turn_id": 1,
-  "speaker": "B",
-  "utterance": "うん、でも正直あんまり行きたくないんだよね。",
-  "label": "hon-ne"
-}
+    "dialogue_id": "190329_J05_02",
+    "topic_name": "Dailylife",
+    "utterances": [
+      {
+        "turn_num": 1,
+        "speaker": "A",
+        "utterance": "あなたは、郵便局で年賀状を出したことはありますか？",
+        "honne": "",
+        "tatemae": ""
+      },
+      {
+        "turn_num": 2,
+        "speaker": "B",
+        "utterance": "ありません。そもそも、郵便局に行く機会自体がほとんどありません。",
+        "honne": "",
+        "tatemae": ""
+      },
+      {
+        "turn_num": 3,
+        "speaker": "A",
+        "utterance": "確かにそうかもしれませんね。僕も普段はメールやSMSで済ませてしまいます。",
+        "honne": "郵便局にいくのは手間です。",
+        "tatemae": "メールやSMSの方が便利です。"
+      }
+    ]
+  },
 ```
