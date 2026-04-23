@@ -1,9 +1,8 @@
-# 本音・建前付き日本語対話データセット
+# HOTATE
 
 ## 概要
 本データセットは、日本語の対話データに対して「**本音**」と「**建前**」の応答を付与したものです。   
-対話に対して、本音と建前を付与した対話ID（dialogue_id）と対話のターン番号（turn_num），本音（honne）と建前（tatemae）を示しています。  
-曖昧な日本語の言語表現を識別する研究が可能です。  
+対話に対して、本音と建前を付与した対話ID（dialogue_id）と対話のターン番号（turn_num），本音（honne）と建前（tatemae）を示しています。曖昧な日本語の言語表現を識別する研究が可能です。  
 
 
 ### 元データ
@@ -36,7 +35,7 @@
 
 ## 文献情報
 * Yuko Toda, Daisuke Maekawa, Kota Manabe, Eito Yoneyama, Kanade Nonomura, Yuki Fujiwara, Tomoyuki Kajiwara.
-HOTATE: A Japanese Dialogue Corpus Annotated with Responses of Private Thoughts and Public Statements.
+HOTATE: A Japanese Dialogue Corpus Annotated with Responses of Private Thoughts and Public Statements.  
 In Proceedings of the 15th International Conference on Language Resources and Evaluation ([LREC 2026](https://lrec2026.info/)), Mallorca, Spain, May 2026. [to appear]
 
 * 戸田裕子, 前川大輔, 眞鍋光汰, 米山瑛人, 野々村奏, 藤原有希, 梶原智之.  
