@@ -7,15 +7,15 @@
 
 
 ### 元データ
-- [Japanese Daily Dialogue](https://github.com/jqk09a/japanese-daily-dialogue)  
+- [JDD (Japanese Daily Dialogue)](https://github.com/jqk09a/japanese-daily-dialogue)  
 - [BSD (The Business Scene Dialogue corpus)](https://github.com/tsuruoka-lab/BSD)
 
 ## データ件数 (Statistics)
 
 | データ | 本音 & 建前 (件数) |
 |------------|--------------|
-| BSD: Business Sence Dialogue | 924 |
 | JDD: Japanese Daily Dialogue | 7,040 |
+| BSD: The Business Scene Dialogue corpus | 924 |
 
 ---
 
