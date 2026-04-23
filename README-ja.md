@@ -41,7 +41,3 @@ In Proceedings of the 15th International Conference on Language Resources and Ev
 * 戸田裕子, 前川大輔, 眞鍋光汰, 米山瑛人, 野々村奏, 藤原有希, 梶原智之.  
 HOTATE：本音と建前の応答対からなる対話コーパスの構築.  
 言語処理学会第32回年次大会, pp.1748-1752, March 2026. \[[PDF](https://anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P4-3.pdf)\]  
-
-* 戸田裕子, 前川大輔, 梶原智之.  
-本音と建前の応答対からなる対話コーパスの構築に向けて.  
-第20回言語処理若手シンポジウム, September 2025.  
