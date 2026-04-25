@@ -3979,4 +3979,4 @@
 {"dialogue_id": "24", "topic_name": "Dailylife", "utterance": {"turn_num": 5, "honne": "Excelも面白いですけど、プログラムも面白いと思いますよ。", "tatemae": "Excelは奥が深いですもんね。"}}
 {"dialogue_id": "26", "topic_name": "Dailylife", "utterance": {"turn_num": 5, "honne": "野菜は苦手だから食べたくないです。", "tatemae": "うん。頑張って食べます。"}}
 {"dialogue_id": "190329_J06_05", "topic_name": "Business", "utterance": {"turn_num": 5, "honne": "ちゃんとアポイントメントを取ってから来てほしいですね。", "tatemae": "了解です。ありがとうございます。こちらで対応しますね。"}}
-{"dialogue_id": "190329_J05_20", "topic_name": "Business", "utterance": {"turn_num": 23, "honne": "その料金はそちらが負担してほしいです。", "tatemae": "わかりました。そのまま速達でお願いします。"}}
+{"dialogue_id": "190329_J05_20", "topic_name": "Business", "utterance": {"turn_num": 23, "honne": "その料金はそちらが負担してほしいです。", "tatemae": "わかりました。そのまま速達でお願いします。"}}  
