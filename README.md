@@ -12,7 +12,7 @@ This dataset enables research into identifying and analyzing ambiguous linguisti
 
 ## Dataset size
 | Data | Private Thoughts & Public Statements (Dataset Size) |
-|------------|--------------:|
+|------------|--------------|
 | BSD: The Business Scene Dialogue corpus | 924 |
 | JDD: Japanese Daily Dialogue | 7,040 |
 

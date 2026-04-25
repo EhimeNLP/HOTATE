@@ -11,7 +11,7 @@
 
 ## データ件数
 | データ | 本音 & 建前 (件数) |
-|------------|--------------:|
+|------------|--------------|
 | BSD: The Business Scene Dialogue corpus | 924 |
 | JDD: Japanese Daily Dialogue | 7,040 |
 
