@@ -33,7 +33,7 @@
 ## 文献情報
 * Yuko Toda, Daisuke Maekawa, Kota Manabe, Eito Yoneyama, Kanade Nonomura, Yuki Fujiwara, Tomoyuki Kajiwara.  
 HOTATE: A Japanese Dialogue Corpus Annotated with Responses of Private Thoughts and Public Statements.  
-In Proceedings of the 15th International Conference on Language Resources and Evaluation ([LREC 2026](https://lrec2026.info/)), Mallorca, Spain, May 2026. [to appear]
+In Proceedings of the 15th International Conference on Language Resources and Evaluation ([LREC 2026](https://lrec2026.info/)), pp.2987-2995, Mallorca, Spain, May 2026. 
 
 * 戸田裕子, 前川大輔, 眞鍋光汰, 米山瑛人, 野々村奏, 藤原有希, 梶原智之.  
 HOTATE：本音と建前の応答対からなる対話コーパスの構築.  
